@@ -34,6 +34,7 @@ The project uses a Decision Tree Classifier from scikit-learn.
 
 ## Project Structure
 
+
 ```text
 student-pass-predictor/
 │
